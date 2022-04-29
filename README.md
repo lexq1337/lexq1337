@@ -9,24 +9,24 @@
 
                     -@                    paradox@archlinux
                    .##@                   -----------------
-                  .####@                  Username: Kaneki Web
-                  @#####@                 Alias: Kaneki, Paradox
+                  .####@                  Username: lex#1000
+                  @#####@                 Alias: lex
                 . *######@                Discord: https://discord.gg/BTdFXbZ9t7
-               .##@o@#####@               Website: https://kanekiweb.tk/
+               .##@o@#####@               Website: soon..
               /############@            
-             /##############@             paradox@archlinux
+             /##############@             lex10000@archlinux
             @######@**%######@            -----------------
            @######`     %#####o           Frontend: 7/10
           @######@       ######%          Backend: 6/1O
         -@#######h       ######@.`        Python: 8/10
        /#####h**``       `**%@####@       CSharp: 5/10
       @H@*`                    `*%#@    
-     *`                            `*     Infos: 16yo Freelance and self-taught developer, founder of Skulldev.ga !
+     *`                            `*     Infos: 15yo Freelance and self-taught developer, founder of Skulldev.ga !
 
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+	<img src=""/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
 	<br>
