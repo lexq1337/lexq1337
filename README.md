@@ -26,7 +26,7 @@
 ```
 
 <p align="center">
-	<img src=""/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
 	<br>
