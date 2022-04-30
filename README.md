@@ -21,7 +21,7 @@
         -@#######h       ######@.`        Python: 8/10
        /#####h**``       `**%@####@       CSharp: 5/10
       @H@*`                    `*%#@    
-     *`                            `*     Infos: 15yo Freelance and self-taught developer, founder of Skulldev.ga !
+     *`                            `*     Infos: 15yo Freelance and self-taught developer, (EX) founder of Skulldev.ga !
 
 ```
 
