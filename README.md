@@ -11,7 +11,7 @@
                    .##@                   -----------------
                   .####@                  Username: lex#1000
                   @#####@                 Alias: lex
-                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
+                . *######@                Discord: https://discord.gg/BTdFXbZD4
                .##@o@#####@               Website: soon..
               /############@            
              /##############@             lex10000@archlinux
